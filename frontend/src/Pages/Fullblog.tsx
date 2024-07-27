@@ -10,7 +10,7 @@ export const FullBlog = () => {
     id: id || "",
   });
 
-  if (loading) {
+  if (loading || !blog) {
     return (
       <div>
         <FullBlogSkeleton />
