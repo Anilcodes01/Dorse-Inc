@@ -1,5 +1,6 @@
 ## Blogging Web App
-This is a full-stack blogging web application built with React, TypeScript, Tailwind CSS for the frontend, and Hono with Prisma for the backend. The application allows users to sign up, sign in, create and publish blogs using a rich text editor, and read all blogs as well as individual blogs.
+This is a full-stack blogging web application built with React, TypeScript, Tailwind CSS for the frontend, and Hono with Prisma for the backend.
+The application allows users to sign up, sign in, create and publish blogs using a rich text editor, and read all blogs as well as individual blogs.
 
 ## Features
 User Authentication: Users can sign up and sign in.
