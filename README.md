@@ -11,7 +11,9 @@ Blog Publishing: Users can publish their own blogs.
 Blog Reading: Users can read all blogs and also view individual blogs.
 
 ## Tech Stack
+
 Frontend
+
 React: A JavaScript library for building user interfaces.
 
 TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
@@ -21,6 +23,7 @@ Tailwind CSS: A utility-first CSS framework for rapid UI development.
 TinyMCE: A rich text editor for creating and editing content.
 
 Backend
+
 Hono: A web framework for building APIs.
 
 Prisma: An ORM for Node.js and TypeScript.
