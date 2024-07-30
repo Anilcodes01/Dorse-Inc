@@ -3,8 +3,11 @@ This is a full-stack blogging web application built with React, TypeScript, Tail
 
 ## Features
 User Authentication: Users can sign up and sign in.
+
 Blog Creation: Users can create blogs using a rich text editor (TinyMCE).
+
 Blog Publishing: Users can publish their own blogs.
+
 Blog Reading: Users can read all blogs and also view individual blogs.
 
 ## Tech Stack
